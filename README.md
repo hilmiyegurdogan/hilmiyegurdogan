@@ -1,20 +1,17 @@
-<h1 align="center">Hi, I'm Hilmiye G.</h1>
+# Hi, I'm Hilmiye 👋
 
-<p align="center">
-  <strong>Software Engineering Student | Python & Swift Developer | Focused on AI & Mobile Technologies</strong>
-</p>
+## About Me
 
----
+- **Software Engineering student** with a strong focus on **AI**, **mobile app development**, and **algorithm optimization**.
+- Currently developing **iOS applications** using **Swift**, **CoreML**, and **Firebase**.
+- Proficient in **Python**, with experience in **machine learning** libraries such as **NumPy**, **Pandas**, **scikit-learn**, and **TensorFlow**.
+- Experienced in solving **optimization problems** using **Python-based Genetic Algorithms**.
 
-##  About Me
+## Technologies & Tools
 
-- 🎓 Software Engineering student with a strong interest in **AI**, **mobile app development**, and **algorithmic problem solving**
-- 💻 Actively developing iOS applications using **Swift**, **Firebase**, and **CoreML**
-- 🧠 Experienced in solving optimization problems using Python-based **Genetic Algorithms**
-- 🔍 Currently focused on clean architecture, scalable code design, and end-to-end mobile solutions
-
-
----
-- LinkedIn: [linkedin.com/in/hilmiyegurdogan](https://www.linkedin.com/in/hilmiyegurdogan/)  
+- **Languages**: Swift, Python
+- **Frameworks & Libraries**: CoreML, Firebase, TensorFlow, scikit-learn, NumPy, Pandas, Django
+- **Tools**: Xcode, Git & GitHub, Firebase, SQLite.
 
 ---
+- LinkedIn: [linkedin.com/in/hilmiyegurdogan](https://linkedin.com/in/hilmiyegurdogan)
