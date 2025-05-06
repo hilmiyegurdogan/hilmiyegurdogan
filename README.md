@@ -14,4 +14,4 @@
 - **Tools**: Xcode, Git & GitHub, Firebase, SQLite.
 
 ---
-- LinkedIn: [linkedin.com/in/hilmiyegurdogan]
+- LinkedIn: [linkedin.com/in/hilmiyegurdogan](https://linkedin.com/in/hilmiyegurdogan)
